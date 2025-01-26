@@ -12,3 +12,11 @@ Menu-Driven Interface: The program provides an interactive menu that lets the us
 Error Handling: Each file operation checks if the file could be opened successfully and displays an error message if it fails.
 Outcome: The application successfully handles text files, showcasing writing, appending, and reading functionality in a modular and user-friendly manner.
 
+#OUTPUT OF THE TASK
+[task1 codtech.pdf](https://github.com/user-attachments/files/18551425/task1.codtech.pdf)
+
+[task2.pdf](https://github.com/user-attachments/files/18551427/task2.pdf)
+
+[task3 codtech.pdf](https://github.com/user-attachments/files/18551428/task3.codtech.pdf)
+
+[task4 codtech.pdf](https://github.com/user-attachments/files/18551430/task4.codtech.pdf)
